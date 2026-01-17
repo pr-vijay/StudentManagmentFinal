@@ -1,0 +1,5 @@
+{
+  "name": "Student Management Service",
+  "description": "A clean, minimal, and stylish Student Management System dashboard with Admin, Teacher, and Student panels.",
+  "requestFramePermissions": []
+}
